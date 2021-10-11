@@ -2,7 +2,7 @@
 
 -   Todo list:
 
-          Make /orders handler more efficient
+          Make /orders handler more efficient (more db queries rather than using memory)
 
           Implement more API controllers
 
